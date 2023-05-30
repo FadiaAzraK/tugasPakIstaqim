@@ -1,5 +1,5 @@
 <?php
-require 'function.php';
+require 'function-inputoutput.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
